@@ -1,2 +1,3 @@
 # Mini-Project
-Aris Candra Muzaffar (2409116088)
+Nama  :Aris Candra Muzaffar 
+NIM   :2409116088
